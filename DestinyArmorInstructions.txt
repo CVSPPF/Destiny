@@ -1,0 +1,13 @@
+Destiny Armor usage:
+Right now this thing is extremely basic
+Step 1: Type in your original and final light levels desired
+Step 2: Type in the two stat numbers (it does not matter what the actual stats are)
+Step 3: Click the type of armor it is
+
+The calculation is done when you click on the button, so if you have to do another
+calculation, you have to click the button again.  Sorry.  It will be better over time.
+I seriously just put this together in 2 hours while eating so please give me a break.
+
+It gives you the unrounded final base stats, and the bonus stat number as well as the
+overall total stats.  These are all estimates due to rounding errors and right now I am
+leaving them unrounded.  Not sure if that is needed or not.
